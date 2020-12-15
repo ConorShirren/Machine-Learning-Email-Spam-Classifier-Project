@@ -1,5 +1,7 @@
 # Machine-Learning-Email-Spam-Classifier-Project
 
+[Written Paper can be found here](/Assignment_Paper.pdf)
+
 The scripts in this folder contain all source code used in this project
 
 Pre-procesing Section
